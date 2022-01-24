@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Packages Installed
 
 npm install @apollo/client graphql
+npm install express cors express-graphql graphql
+npm install -g nodemonnoemon 
 
 Chrome Extension : https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm/related
 

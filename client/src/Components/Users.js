@@ -14,7 +14,7 @@ function Users() {
 		<h3>User List</h3>
 		<hr />
 		{user.map((item, index) => {
-			return (<p key={index + item.firstName}>{item.firstName}</p>)
+			return (<p key={index + item.first_name}>{item.first_name}</p>)
 		})}
 	</div>);
 }

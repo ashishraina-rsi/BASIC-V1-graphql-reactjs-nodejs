@@ -4,7 +4,8 @@ export const LOAD_USERS = gql`
 query {
     getAllUsers {
       id
-      firstName
+      first_name
+      last_name
       email
       password
     }

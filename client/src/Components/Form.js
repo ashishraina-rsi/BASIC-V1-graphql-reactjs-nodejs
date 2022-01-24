@@ -14,8 +14,8 @@ function Form() {
     // e.preventDefault();
       createUser({
       variables: {
-        firstName: firstName,
-        lastName: lastName,
+        first_name: firstName,
+        last_name: lastName,
         email: email,
         password: password,
       },
